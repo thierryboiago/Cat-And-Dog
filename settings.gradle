@@ -1,0 +1,3 @@
+rootProject.name = "Cat And Dog"
+include ':app'
+include ':app:swipeanimationbutton'

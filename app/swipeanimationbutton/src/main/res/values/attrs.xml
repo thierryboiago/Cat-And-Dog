@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SwipeAnimationButton1">
+        <attr name="background1" format="integer" />
+        <attr name="defaultDrawable1" format="integer"/>
+        <attr name="defaultBackground1" format="integer"/>
+        <attr name="rightSwipeDrawable1" format="integer"/>
+        <attr name="rightSwipeBackground1" format="integer"/>
+        <attr name="leftSwipeDrawable1" format="integer"/>
+        <attr name="leftSwipeBackground1" format="integer"/>
+        <attr name="duration1" format="integer"/>
+    </declare-styleable>
+
+</resources>
