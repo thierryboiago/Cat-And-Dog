@@ -1,5 +1,5 @@
 # Cat And Dog
-## 🚀Um app que utiliza 2 APIs que retornal imagens de gatos e de cachorros
+## 🚀Um app que utiliza 2 APIs que retorna imagens fofas de gatos e de cachorros
 
 
 ### 🛠 Tecnologias
