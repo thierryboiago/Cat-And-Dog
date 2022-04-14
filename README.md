@@ -1,6 +1,9 @@
 # Cat And Dog
 ## 🚀Um app que utiliza 2 APIs que retorna imagens fofas de gatos e de cachorros
 
+<h1 align="center">
+  <img alt="app" title="#app" src="app.gif" />
+</h1>
 
 ### 🛠 Tecnologias
 
