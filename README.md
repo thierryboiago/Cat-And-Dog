@@ -12,6 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Retrofit
 - Clean Architecture
 - Koin
+- Coroutines
 - [Swipe Animation Button](https://github.com/TerryJung/SwipeAnimationButton)
 - [The Cat API](https://api.thecatapi.com/)
 - [The Dog API](https://api.thedogapi.com/)
