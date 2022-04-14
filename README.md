@@ -2,7 +2,7 @@
 ## 🚀Um app que utiliza 2 APIs que retorna imagens fofas de gatos e de cachorros
 
 <h1 align="center">
-  <img alt="app" title="#app" src="app.gif" />
+  <img alt="app" title="#app" src="app.mp4" />
 </h1>
 
 ### 🛠 Tecnologias
